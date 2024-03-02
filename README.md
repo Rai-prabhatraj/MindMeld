@@ -1,4 +1,4 @@
-# OnVarg An Online Examination Platform
+# MndMeld An Online Examination Platform
 
 > This platform built with the MERN stack & Redux.
 
